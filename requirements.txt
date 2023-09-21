@@ -4,3 +4,4 @@ pymongo
 motor
 click
 tzlocal
+gevent>=23.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
